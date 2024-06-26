@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.table{
+  border: solid;
+  margin-top: 10px;
+  font-family: arial;
+  border-collapse: collapse;
+}
+form{
+  border-style: solid;
+}
+.productTable{
+  border-style: solid;
+  padding: 10px;
+}
+td, th{
+  border: 1px solid;
+  text-align: center;
+  padding: 8px;
+}
+tr, td{
+  padding-left: 60px;
+  border-collapse: collapse;
+}
